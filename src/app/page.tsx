@@ -36,15 +36,15 @@ const AccountTypeSelection = () => {
         <div className="grid grid-cols-1 lg:grid-cols-3 gap-4 md:gap-5">
           <AccountOption
             title="Volunteer"
-            href="/login"
+            href="/volunteer"
           />
           <AccountOption
             title="Admin"
-            href="/login"
+            href="/admin"
           />
           <AccountOption
             title="Trustee"
-            href="/login"
+            href="/trustee"
           />
         </div>
       </div>
